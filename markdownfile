@@ -1,0 +1,18 @@
+#new file to test out markdown functions
+#1
+##2
+###3
+####4
+#####5
+######6
+
+**bold text** 
+*italic text*
+~~Strikethrough text~~
+**Bolded and _nested italic_ text**
+***Bold and Italic Text***
+<sub>SubScript</sub>
+<sup>SuperScript</sup>
+Non-Quoted Text
+> Quoted Text
+//reference guide: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
